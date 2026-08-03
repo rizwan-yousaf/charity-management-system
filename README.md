@@ -1,3 +1,7 @@
+# Charity Management System
+
+A full-stack charity management system built with Laravel, HTML, CSS, Bootstrap, jQuery, and MySQL. The platform streamlines charity operations by providing secure donation management, campaign administration, beneficiary tracking, and a responsive user interface.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
